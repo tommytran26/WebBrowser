@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\9c7b81083ebd0e960c45aa20c6cf46e8f11c6174\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_c92be4d5dcca8bc2bba6fb8420a764fd1ee0b77c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\ff1e5986cc507880bcecaf5a15c8b69e6925c7cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_0fc3415ea667b3ee21bd3ff0089697c4bdf65293.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\d6568c3e92e47dac758a48ea76a05636e0262951\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bdef10700fd6a873f963e146eff86b0c3ef68d4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\512c35221464ab4236120208db93b010c1959a5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b82f099907329ed3eaae433f7349b9d996f0ba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\e04d86757dc060a84777824c97f84c3029593b82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_f1990745d69334d2f21fde302d73a0ba28fd59c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\ff1e5986cc507880bcecaf5a15c8b69e6925c7cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fc3415ea667b3ee21bd3ff0089697c4bdf65293\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\710827abcbf452cbf0b3589ff3c31e8153cd1ce5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb7f53b76c82eda7752399928984874c1fec36c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="16a123724db11df70f33d9841fbedb33585eb07c">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_322b9e646ce55b843a6c6a4bf8151e0191bae671\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\710827abcbf452cbf0b3589ff3c31e8153cd1ce5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_eb7f53b76c82eda7752399928984874c1fec36c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\b1adc673d0784ca9ba9e77e3899da5fb115a40fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad33d107716f817f174aa0ee5822066291a4e726\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\b1adc673d0784ca9ba9e77e3899da5fb115a40fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_ad33d107716f817f174aa0ee5822066291a4e726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\512c35221464ab4236120208db93b010c1959a5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_2b82f099907329ed3eaae433f7349b9d996f0ba4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\e04d86757dc060a84777824c97f84c3029593b82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1990745d69334d2f21fde302d73a0ba28fd59c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e05b06cc80f57dce8ed76825318fc6399f46c978\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\5e19aacd4e4f18a08a26bde90c6dfb618093def6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_dfabe8fc8a653da0694662c240e74ccc87991848.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\5e19aacd4e4f18a08a26bde90c6dfb618093def6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfabe8fc8a653da0694662c240e74ccc87991848\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\ac923d4283e6832fc223da21931c88801a19617c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_e2600a38fe4b2a667b2f4680e2efdf99a8134071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\e35a36fd2c2cd13155619b586085727146841d15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_3b02a6436b0d59677cb78268e67a4d0fc496ab4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\e35a36fd2c2cd13155619b586085727146841d15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b02a6436b0d59677cb78268e67a4d0fc496ab4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\ac923d4283e6832fc223da21931c88801a19617c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2600a38fe4b2a667b2f4680e2efdf99a8134071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\314c70c21aec01cbcfec8df12a0fa14cddfa181e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cfc844b425ba7a7fb9184d948b18117ac80eff6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\314c70c21aec01cbcfec8df12a0fa14cddfa181e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_cfc844b425ba7a7fb9184d948b18117ac80eff6d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_d6e53261614867ffa4e10a86282f4a3c9a75aff4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\617861dc02fe647bdcce4fcf0eba0774c527ed46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b2168023cc077333e823b3b98047f9f894eb8fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tommy Tran\.android\build-cache\9c7b81083ebd0e960c45aa20c6cf46e8f11c6174\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c92be4d5dcca8bc2bba6fb8420a764fd1ee0b77c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\d6568c3e92e47dac758a48ea76a05636e0262951\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_bdef10700fd6a873f963e146eff86b0c3ef68d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\.android\build-cache\617861dc02fe647bdcce4fcf0eba0774c527ed46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\classes_5b2168023cc077333e823b3b98047f9f894eb8fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tommy Tran\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Tommy Tran\Desktop\BetterBrowser\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_d6e53261614867ffa4e10a86282f4a3c9a75aff4.jar" />
+    </item>
+
+</items>
